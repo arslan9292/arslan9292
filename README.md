@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating new innovative things (yes, that includes coding) which can help doing tasks easier ;) 
 - I am an Electronics & Communication Enginner so I like playing around with Robots (mostly using Arduino).
 - 🌱 I’m currently learning Python, Shell Scripting, Automation tools like Ansible.
-- 💞️ I’m looking to collaborate on projects involving Python/Shell Scripting or Arduino programming languages.
+- 💞️ I’m looking to collaborate on projects involving Python/Shell Scripting or Arduino (C++) programming languages.
 - I like automating things so you can count on for Ansible :) 
 - 📫 You already know how to reach me!
 
